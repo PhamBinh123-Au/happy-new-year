@@ -1,5 +1,5 @@
-var fut = new Date("jan 21, 2023 23:59:00").getTime()
-let x = setInterval(function stime(){
+var fut = new Date("Jan fut = new Date("Jan 1, 2026 00:00:00").getTime()
+    let x = setInterval(function stime(){
     var now = new Date().getTime()
     var D = fut - now
     var days = Math.floor(D/(1000*60*60*24))
